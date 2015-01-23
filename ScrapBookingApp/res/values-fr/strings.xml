@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScrapBookingApp</string>
+    <string name="hello_world">Bonjour le monde!</string>
+    <string name="action_settings">paramètres</string>
+    <string name="dubai">tours de ciel</string>
+    <string name="tajmahal">taj mahal</string>
+    <string name="tower">tour de Malaisie</string>
+    <string name="china">Grande Muraille de Chine</string>
+
+</resources>
