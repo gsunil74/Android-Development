@@ -1,0 +1,8 @@
+1422569022478	Change Layout
+1422569052474	Rename field 'GridLayout1'
+1422572465420	Extracts string 'null' into R.string.amount
+1422572543406	Extracts string 'null' into R.string.custom_tip_percentage
+1422572577243	Extracts string 'null' into R.string.fifteen_percent
+1422572607959	Extracts string 'null' into R.string.eighteen_percent
+1422572653699	Extracts string 'null' into R.string.tip
+1422572688706	Extracts string 'null' into R.string.total

@@ -1,0 +1,30 @@
+package com.example.cannongame;
+
+import android.content.Context;
+import android.util.AttributeSet;
+import android.view.SurfaceView;
+
+public class CannonView extends SurfaceView {
+
+	public CannonView(Context context) {
+		super(context);
+		// TODO Auto-generated constructor stub
+	}
+
+	public CannonView(Context context, AttributeSet attrs) {
+		super(context, attrs);
+		// TODO Auto-generated constructor stub
+	}
+
+	public CannonView(Context context, AttributeSet attrs, int defStyle) {
+		super(context, attrs, defStyle);
+		// TODO Auto-generated constructor stub
+	}
+
+	public CannonView(Context context, AttributeSet attrs, int defStyleAttr,
+			int defStyleRes) {
+		super(context, attrs, defStyleAttr, defStyleRes);
+		// TODO Auto-generated constructor stub
+	}
+
+}
